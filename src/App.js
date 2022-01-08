@@ -28,7 +28,7 @@ function App() {
       <h1>Redux Toolkit Demo</h1>
       <hr />
       <hr />
-      <h2>Coutner Example</h2>
+      <h2>Counter Example</h2>
       <button onClick={() => dispatch(increment())}>+</button>
       <h1>{count}</h1>
       <button onClick={() => dispatch(decrement())}>-</button>
